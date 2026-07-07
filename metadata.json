@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BEYSA FARM Delivery",
+  "description": "Professional livestock \u0026 agricultural delivery application for BEYSA FARM in Dadar, Ethiopia, with multi-language support (Afaan Oromoo, Amharic, English) and role-specific dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
